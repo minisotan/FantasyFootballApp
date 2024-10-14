@@ -1,6 +1,6 @@
 from espn_api.football import League  # Ensure you have the right library imported
 import pandas as pd
-from config import LEAGUE_ID, SEASON, SWID, ESPN_S2
+from credentials import LEAGUE_ID, SEASON, SWID, ESPN_S2
 
 # Initialize the league
 league = League(league_id=LEAGUE_ID, year=SEASON, swid=SWID, espn_s2=ESPN_S2)
