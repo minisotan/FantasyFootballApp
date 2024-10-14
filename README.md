@@ -2,7 +2,7 @@ This is an app that keeps track of your Fantasy Football League
 
 In order to use it properly you need to get your: LEAGUE ID, SWID KEY, and ESPN_S2 KEY.
 
-1. To find yourLEAGUE_ID
+1. To find your LEAGUE_ID
 Log in to Your ESPN Fantasy Football Account:
 
 Look at the URL in your browser's address bar. It usually looks something like this:
